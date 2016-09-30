@@ -1,0 +1,16 @@
+D:\guang-github\BatteryInfo\BatteryInfo\app\build\intermediates\classes\debug
+D:\guang-github\BatteryInfo\BatteryInfo\app\build\intermediates\pre-dexed\debug\classes-84e74a45e0b138535b6afa0793aaf62df4662bdc.jar
+D:\guang-github\BatteryInfo\BatteryInfo\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.0-02813ff0ba0b1689fe98abc00a4420b8284442d8.jar
+D:\guang-github\BatteryInfo\BatteryInfo\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0-6f9a0007afa20c0973a0540b3a5206b3a79acaa6.jar
+D:\guang-github\BatteryInfo\BatteryInfo\app\build\intermediates\pre-dexed\debug\classes-027567c719189f4ea0d16013719353b5ec7d4693.jar
+D:\guang-github\BatteryInfo\BatteryInfo\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0-5de7f0076f4954a6f4579d095b530cf62443a8ad.jar
+D:\guang-github\BatteryInfo\BatteryInfo\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0-608091442863107551de825ed398c324928e69a0.jar
+D:\guang-github\BatteryInfo\BatteryInfo\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0-a728dbf953f28a6acbc0e5533f691c72a14130f8.jar
+D:\guang-github\BatteryInfo\BatteryInfo\app\build\intermediates\pre-dexed\debug\classes-98b19bb523a909dc7e6713c7d59e6b4d0e137765.jar
+D:\guang-github\BatteryInfo\BatteryInfo\app\build\intermediates\pre-dexed\debug\classes-a8b91292b60a4816c9cc7d931fc0bd07be73df4e.jar
+D:\guang-github\BatteryInfo\BatteryInfo\app\build\intermediates\pre-dexed\debug\classes-0b88e17d4372f2fae42b8983338cc27956c62b89.jar
+D:\guang-github\BatteryInfo\BatteryInfo\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0-c75955faab6b2d1ed286057d4bccfaa9095fc4a4.jar
+D:\guang-github\BatteryInfo\BatteryInfo\app\build\intermediates\pre-dexed\debug\classes-30472c4466e50994551bf62839e6cc8459a21930.jar
+D:\guang-github\BatteryInfo\BatteryInfo\app\build\intermediates\pre-dexed\debug\classes-276e2429d14a55bf5d41df8408a96574ce9aa6f1.jar
+D:\guang-github\BatteryInfo\BatteryInfo\app\build\intermediates\pre-dexed\debug\classes-fe7ae653e6c769b179a90cafe5be3caa19073940.jar
+D:\guang-github\BatteryInfo\BatteryInfo\app\build\intermediates\pre-dexed\debug\classes-48c7dd450452ab3e0468bb10b7cb33c276f09fc0.jar
